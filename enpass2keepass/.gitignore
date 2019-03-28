@@ -1,0 +1,5 @@
+.vscode
+node_modules
+enpass.json
+keepass.json
+keepass.csv
